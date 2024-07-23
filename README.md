@@ -16,28 +16,49 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:*Muhammad Jareer Obaray*
+- **Date:*19 July 2024*
+- **Current Role/Position:*Student*
+- **Field of Interest:*Web Design/Cyber security*
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+    I havent acquired any skills in my fields of interest. 
     - Identify skills you need to develop or improve.
+    Web development,coding and ethical hacking.
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
-
+      I dont have any real work experiance. I was focused on studies which I completed last year.
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+    Web Development:
+
+    Industries: E-commerce, healthcare, finance, entertainment, education.
+    Roles: Frontend Developer, Backend Developer, Full-stack Developer, UI/UX Designer, Web Application Developer.
+
+    Cybersecurity:
+
+    Industries: Banking and finance, healthcare, government, technology, retail.
+    Roles: Security Analyst, Penetration Tester, Security Consultant, Incident Responder, Cryptographer.
+
     - Note any particular areas that piqued your interest.
+
+    Frontend Development: Interest in creating intuitive user interfaces (UI) that enhance user experience (UX).
+
+    Backend Development: Fascination with optimizing server-side processes and database management for scalability.
+    
+    Penetration Testing: Intrigued by the challenge of identifying and exploiting vulnerabilities in systems to strengthen security defenses.
+    
+    Ethical Hacking: Passion for ethical hacking practices to uncover weaknesses in networks and applications before malicious hackers do.
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
@@ -48,7 +69,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+    Before entering a specific field, I need to study the relevant areas mentioned earlier. My goal is to gain this knowledge over the next two years. In the short term, I aim to complete my current course in software engineering. Following that, I plan to further my education by focusing on coding.
     - Explain the rationale behind each goal.
+    Over the next two years, I aim to excel in coding and web development by focusing on key areas. Firstly, mastering JavaScript through daily practice of advanced topics like closures and ES6+ features, aiming for proficiency within six months. Secondly, becoming proficient in React.js by completing and deploying three complex projects showcasing skills in state management, hooks, and component lifecycle methods within a year, with milestones every three months. Thirdly, building a robust portfolio of five diverse web projects, from responsive designs to backend integrations, completed and deployed within 18 months. Additionally, contributing to open-source projects with ten meaningful pull requests and active participation in relevant GitHub communities to gain experience and visibility. 
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
